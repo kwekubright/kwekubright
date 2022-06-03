@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ```javascript
 const kwekubright = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, PHP, Laravel, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, PHP, Laravel, Bootstrap],
   challenge: "I picking up some Python skills",
   funFacts: ['I have 3+ years work experience']
 }
