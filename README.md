@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![Guitar   Code](https://user-images.githubusercontent.com/5249414/171852967-b293f1ac-8e34-4d1f-87fb-e8b5fb612bed.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/kwekubright/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/kwekubright_)
+[![Linkedin Badge](https://img.shields.io/badge/-Kweku%20Bright-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwekubright/)](https://www.linkedin.com/in/kwekubright/)
+[![Twitter Badge](https://img.shields.io/badge/-@kwekubright_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kwekubright_)](https://twitter.com/kwekubright_)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
