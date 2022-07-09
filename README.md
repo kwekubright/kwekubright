@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bright Ahiadeke</h1>
 <h3 align="center">Software developer, Rails enthusiast, beginner-level guitarist. Stack: JavaScript, Ruby, Rails, React, Redux, PHP, Laravel. Looking for my next job!</h3>
 
+- 💡Founder [@scriptonauts](https://github.com/Scriptonauts)
+
 - 🔭 I’m collaborating on [News360](https://github.com/Scriptonauts/News360)
 
 - 💬 Ask me about **Javascript, React, PHP, Laravel**
