@@ -5,13 +5,9 @@
 
 - 🔭 I’m collaborating on [News360](https://github.com/Scriptonauts/News360)
 
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https:///www.kwekubright.com](https:///www.kwekubright.com)
-
 - 💬 Ask me about **Javascript, React, PHP, Laravel**
 
-- 📫 How to reach me **info@kwekubright.com/kwekubright@gmail.com**
+- 📫 How to reach me **info@kwekubright.com / kwekubright@gmail.com**
 
 - ⚡ Fun fact **I love playing the guitar**
 
