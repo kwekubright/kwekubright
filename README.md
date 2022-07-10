@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, React, PHP, Laravel**
 
-- 📫 How to reach me **info@kwekubright.com / kwekubright@gmail.com**
+- 📫 How to reach me **kweku01bright@gmail.com**
 
 - ⚡ Fun fact **I love playing the guitar**
 
