@@ -5,7 +5,7 @@
 
 - 🔭 I’m collaborating on [News360](https://github.com/Scriptonauts/News360)
 
-- 💬 Ask me about **Javascript, React, PHP, Laravel**
+- 💬 Ask me about **Javascript, React, PHP, Laravel, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **kweku01bright@gmail.com**
 
